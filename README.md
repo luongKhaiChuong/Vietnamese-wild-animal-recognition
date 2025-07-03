@@ -3,6 +3,7 @@ A toy project for university's subject. The goal is to determine endangered anim
 Thanks to:
 - [YOLO-V12-CAM](https://github.com/rigvedrs/YOLO-V12-CAM) by rigvedrs – for class activation maps.
 - [BioTrove](https://github.com/baskargroup/BioTrove) – for biodiversity-related visual modeling.
+- Tran Trinh Hoang Chau and Tran Anh Minh for creating dataset and writing animal descriptions.
 
 There are certain limitations in the system shown in the Validation set, such as:
 - Overlapping animals (gaungua(0).jng)
